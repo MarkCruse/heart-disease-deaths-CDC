@@ -1,0 +1,1425 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Gender"	"Gender Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Angelina County, TX"	"48005"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	13	987	Unreliable
+	"Angelina County, TX"	"48005"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	20	4959	403.3
+	"Angelina County, TX"	"48005"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	14	3031	Unreliable
+	"Angelina County, TX"	"48005"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	12	1638	Unreliable
+	"Bell County, TX"	"48027"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	14049	Unreliable
+	"Bell County, TX"	"48027"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	14	4902	Unreliable
+	"Bell County, TX"	"48027"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	18	2261	Unreliable
+	"Bell County, TX"	"48027"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	26	2261	1149.9
+	"Bell County, TX"	"48027"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	12843	Unreliable
+	"Bell County, TX"	"48027"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	11	6969	Unreliable
+	"Bell County, TX"	"48027"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	6969	Unreliable
+	"Bell County, TX"	"48027"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	15	3675	Unreliable
+	"Bell County, TX"	"48027"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	18	1133	Unreliable
+	"Bell County, TX"	"48027"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	1133	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"45-54 years"	"45-54"	"Cardiomyopathy, unspecified"	"I42.9"	18	116477	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	12	92211	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	92211	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	16	92211	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	24	52613	45.6
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	52613	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	48	52613	91.2
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	69	33828	204.0
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	33828	59.1
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	89	33828	263.1
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Ischaemic cardiomyopathy"	"I25.5"	10	33828	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Aortic (valve) stenosis"	"I35.0"	12	33828	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Cardiomyopathy, unspecified"	"I42.9"	13	33828	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atrial fibrillation and flutter"	"I48"	14	33828	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	33	33828	97.6
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	19	14905	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	14905	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	100	14905	670.9
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	39	14905	261.7
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	183	14905	1227.8
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	19	14905	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Cardiomyopathy, unspecified"	"I42.9"	10	14905	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atrial fibrillation and flutter"	"I48"	27	14905	181.1
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Cardiac arrhythmia, unspecified"	"I49.9"	13	14905	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	67	14905	449.5
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Heart disease, unspecified"	"I51.9"	21	14905	140.9
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"35-44 years"	"35-44"	"Cardiomyopathy, unspecified"	"I42.9"	18	113245	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Acute myocardial infarction, unspecified"	"I21.9"	29	110639	26.2
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	110639	18.1
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic heart disease"	"I25.1"	18	110639	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Cardiomyopathy, unspecified"	"I42.9"	25	110639	22.6
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	55	80916	68.0
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	45	80916	55.6
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	44	80916	54.4
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Cardiomyopathy, unspecified"	"I42.9"	24	80916	29.7
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	62	43628	142.1
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	25	43628	57.3
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	81	43628	185.7
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	23410	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	51	23410	217.9
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	34	23410	145.2
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	107	23410	457.1
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Ischaemic cardiomyopathy"	"I25.5"	13	23410	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Cardiomyopathy, unspecified"	"I42.9"	10	23410	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atrial fibrillation and flutter"	"I48"	12	23410	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	22	23410	94.0
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	7499	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	56	7499	746.8
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	24	7499	320.0
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	135	7499	1800.2
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Ischaemic cardiomyopathy"	"I25.5"	12	7499	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atrial fibrillation and flutter"	"I48"	15	7499	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	32	7499	426.7
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Heart disease, unspecified"	"I51.9"	11	7499	Unreliable
+	"Bowie County, TX"	"48037"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	10	5666	Unreliable
+	"Bowie County, TX"	"48037"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	10	2551	Unreliable
+	"Bowie County, TX"	"48037"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	12	1320	Unreliable
+	"Bowie County, TX"	"48037"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	14	5474	Unreliable
+	"Bowie County, TX"	"48037"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	19	3236	Unreliable
+	"Bowie County, TX"	"48037"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	15	1670	Unreliable
+	"Bowie County, TX"	"48037"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	10	1670	Unreliable
+	"Bowie County, TX"	"48037"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	12	534	Unreliable
+	"Brazoria County, TX"	"48039"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	13	16025	Unreliable
+	"Brazoria County, TX"	"48039"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	11	9165	Unreliable
+	"Brazoria County, TX"	"48039"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	10	9165	Unreliable
+	"Brazoria County, TX"	"48039"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	14	5288	Unreliable
+	"Brazoria County, TX"	"48039"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	10	5288	Unreliable
+	"Brazoria County, TX"	"48039"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	16	1985	Unreliable
+	"Brazoria County, TX"	"48039"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	17	1985	Unreliable
+	"Brazoria County, TX"	"48039"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	20	1985	1007.6
+	"Brazoria County, TX"	"48039"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	12	8533	Unreliable
+	"Brazoria County, TX"	"48039"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	14	3952	Unreliable
+	"Brazoria County, TX"	"48039"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	14	3952	Unreliable
+	"Brazoria County, TX"	"48039"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	10	3952	Unreliable
+	"Brazoria County, TX"	"48039"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	12	1000	Unreliable
+	"Brazoria County, TX"	"48039"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	16	1000	Unreliable
+	"Brazos County, TX"	"48041"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	12	2572	Unreliable
+	"Brazos County, TX"	"48041"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	18	1206	Unreliable
+	"Brazos County, TX"	"48041"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	11	610	Unreliable
+	"Brown County, TX"	"48049"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	10	570	Unreliable
+	"Cameron County, TX"	"48061"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	15	13402	Unreliable
+	"Cameron County, TX"	"48061"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	14	8782	Unreliable
+	"Cameron County, TX"	"48061"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	14	8782	Unreliable
+	"Cameron County, TX"	"48061"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	32	3109	1029.3
+	"Cameron County, TX"	"48061"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	25	3109	804.1
+	"Cameron County, TX"	"48061"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	24	17458	137.5
+	"Cameron County, TX"	"48061"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	25	11243	222.4
+	"Cameron County, TX"	"48061"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	11	11243	Unreliable
+	"Cameron County, TX"	"48061"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Cardiac arrest, unspecified"	"I46.9"	11	11243	Unreliable
+	"Cameron County, TX"	"48061"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	30	6462	464.3
+	"Cameron County, TX"	"48061"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	13	6462	Unreliable
+	"Cameron County, TX"	"48061"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Cardiac arrest, unspecified"	"I46.9"	16	6462	Unreliable
+	"Cameron County, TX"	"48061"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	27	1893	1426.3
+	"Cameron County, TX"	"48061"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	30	1893	1584.8
+	"Cass County, TX"	"48067"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	480	Unreliable
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	17	9275	Unreliable
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	31	9275	334.2
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	12	9275	Unreliable
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	38	3942	964.0
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	3942	Unreliable
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	47	3942	1192.3
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	37	3942	938.6
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	59251	Unreliable
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	30	36101	83.1
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	17967	Unreliable
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	18	17967	Unreliable
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	15	6682	Unreliable
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	18	6682	Unreliable
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	34	6682	508.8
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	10	6682	Unreliable
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	1829	Unreliable
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	26	1829	1421.5
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	19	1829	Unreliable
+	"Comal County, TX"	"48091"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	10	2792	Unreliable
+	"Comal County, TX"	"48091"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	22	1283	1714.7
+	"Comal County, TX"	"48091"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	12	2304	Unreliable
+	"Comal County, TX"	"48091"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	12	638	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"45-54 years"	"45-54"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	26	159908	16.3
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"45-54 years"	"45-54"	"Acute myocardial infarction, unspecified"	"I21.9"	10	159908	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"45-54 years"	"45-54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	28	159908	17.5
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"45-54 years"	"45-54"	"Atherosclerotic heart disease"	"I25.1"	12	159908	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	19	117626	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	25	117626	21.3
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	46	117626	39.1
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	22	117626	18.7
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Congestive heart failure"	"I50.0"	10	117626	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	15	64084	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	29	64084	45.3
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	33	64084	51.5
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	48	64084	74.9
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Congestive heart failure"	"I50.0"	19	64084	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	39280	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	20	39280	50.9
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	66	39280	168.0
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	47	39280	119.7
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	101	39280	257.1
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Cardiomyopathy, unspecified"	"I42.9"	17	39280	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atrial fibrillation and flutter"	"I48"	17	39280	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	61	39280	155.3
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Heart disease, unspecified"	"I51.9"	13	39280	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	27	17792	151.8
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	27	17792	151.8
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	76	17792	427.2
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	58	17792	326.0
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	166	17792	933.0
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	18	17792	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atrial fibrillation and flutter"	"I48"	26	17792	146.1
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Cardiac arrhythmia, unspecified"	"I49.9"	10	17792	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	135	17792	758.8
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Cardiovascular disease, unspecified"	"I51.6"	13	17792	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Heart disease, unspecified"	"I51.9"	15	17792	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"35-44 years"	"35-44"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	13	171986	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"35-44 years"	"35-44"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	171986	11.6
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	28	157975	17.7
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Acute myocardial infarction, unspecified"	"I21.9"	29	157975	18.4
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	60	157975	38.0
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic heart disease"	"I25.1"	21	157975	13.3
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Cardiomyopathy, unspecified"	"I42.9"	10	157975	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	37	106104	34.9
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	40	106104	37.7
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	130	106104	122.5
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	30	106104	28.3
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Congestive heart failure"	"I50.0"	12	106104	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	18	52652	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	34	52652	64.6
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	75	52652	142.4
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	65	52652	123.5
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Cardiomyopathy, unspecified"	"I42.9"	11	52652	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Congestive heart failure"	"I50.0"	20	52652	38.0
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	16	26149	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	60	26149	229.5
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	56	26149	214.2
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	102	26149	390.1
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Cardiomyopathy, unspecified"	"I42.9"	14	26149	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atrial fibrillation and flutter"	"I48"	12	26149	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	40	26149	153.0
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	8015	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	49	8015	611.4
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	43	8015	536.5
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	116	8015	1447.3
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	12	8015	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atrial fibrillation and flutter"	"I48"	11	8015	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	70	8015	873.4
+	"Denton County, TX"	"48121"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	15457	Unreliable
+	"Denton County, TX"	"48121"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	17	7308	Unreliable
+	"Denton County, TX"	"48121"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	19	3136	Unreliable
+	"Denton County, TX"	"48121"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	35	3136	1116.1
+	"Denton County, TX"	"48121"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	22	3136	701.5
+	"Denton County, TX"	"48121"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	17	29069	Unreliable
+	"Denton County, TX"	"48121"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	26	29069	89.4
+	"Denton County, TX"	"48121"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	11	29069	Unreliable
+	"Denton County, TX"	"48121"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	12	13695	Unreliable
+	"Denton County, TX"	"48121"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	15	13695	Unreliable
+	"Denton County, TX"	"48121"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	16	5042	Unreliable
+	"Denton County, TX"	"48121"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	39	5042	773.5
+	"Denton County, TX"	"48121"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	11	1405	Unreliable
+	"Denton County, TX"	"48121"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	20	1405	1423.5
+	"Denton County, TX"	"48121"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	14	1405	Unreliable
+	"Ector County, TX"	"48135"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	12	4104	Unreliable
+	"Ector County, TX"	"48135"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	24	2906	825.9
+	"Ector County, TX"	"48135"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	38	970	3917.5
+	"Ector County, TX"	"48135"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	10	6779	Unreliable
+	"Ector County, TX"	"48135"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	15	3550	Unreliable
+	"Ector County, TX"	"48135"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	27	1922	1404.8
+	"Ector County, TX"	"48135"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	24	502	4780.9
+	"Ellis County, TX"	"48139"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	10	1062	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	24839	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	11	24839	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	13	24839	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	17	17063	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	47	17063	275.4
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	12	17063	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	26	6107	425.7
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	23	6107	376.6
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	6107	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	99	6107	1621.1
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	28	6107	458.5
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Acute myocardial infarction, unspecified"	"I21.9"	10	47784	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	16	34872	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	11	34872	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	17	19396	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	12	19396	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	19396	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	24	19396	123.7
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	23	11461	200.7
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	13	11461	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	11461	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	50	11461	436.3
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	17	11461	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	16	3357	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	14	3357	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	3357	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	49	3357	1459.6
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	13	3357	Unreliable
+	"Erath County, TX"	"48143"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	11	448	Unreliable
+	"Falls County, TX"	"48145"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	253	Unreliable
+	"Fannin County, TX"	"48147"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	13	1556	Unreliable
+	"Fannin County, TX"	"48147"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	12	845	Unreliable
+	"Fayette County, TX"	"48149"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	13	591	Unreliable
+	"Fort Bend County, TX"	"48157"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	14	6865	Unreliable
+	"Fort Bend County, TX"	"48157"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	6865	Unreliable
+	"Fort Bend County, TX"	"48157"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	17	6865	Unreliable
+	"Fort Bend County, TX"	"48157"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	14	2743	Unreliable
+	"Fort Bend County, TX"	"48157"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	2743	Unreliable
+	"Fort Bend County, TX"	"48157"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	14	2743	Unreliable
+	"Fort Bend County, TX"	"48157"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	16	2743	Unreliable
+	"Fort Bend County, TX"	"48157"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	16	31568	Unreliable
+	"Fort Bend County, TX"	"48157"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	13	31568	Unreliable
+	"Fort Bend County, TX"	"48157"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	18	12848	Unreliable
+	"Fort Bend County, TX"	"48157"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	11	4928	Unreliable
+	"Fort Bend County, TX"	"48157"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	23	4928	466.7
+	"Fort Bend County, TX"	"48157"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	1314	Unreliable
+	"Fort Bend County, TX"	"48157"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	16	1314	Unreliable
+	"Galveston County, TX"	"48167"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	14	5885	Unreliable
+	"Galveston County, TX"	"48167"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	12	5885	Unreliable
+	"Galveston County, TX"	"48167"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	15	2461	Unreliable
+	"Galveston County, TX"	"48167"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	14	2461	Unreliable
+	"Galveston County, TX"	"48167"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	25	2461	1015.8
+	"Galveston County, TX"	"48167"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	17717	Unreliable
+	"Galveston County, TX"	"48167"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	10	9058	Unreliable
+	"Galveston County, TX"	"48167"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	14	9058	Unreliable
+	"Galveston County, TX"	"48167"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	18	4330	Unreliable
+	"Galveston County, TX"	"48167"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	14	1206	Unreliable
+	"Galveston County, TX"	"48167"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	13	1206	Unreliable
+	"Galveston County, TX"	"48167"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	10	1206	Unreliable
+	"Grayson County, TX"	"48181"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	10	5412	Unreliable
+	"Grayson County, TX"	"48181"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	14	3558	Unreliable
+	"Grayson County, TX"	"48181"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	17	3558	Unreliable
+	"Grayson County, TX"	"48181"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	14	1643	Unreliable
+	"Grayson County, TX"	"48181"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	22	1643	1339.0
+	"Grayson County, TX"	"48181"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	15	1643	Unreliable
+	"Grayson County, TX"	"48181"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	20	7325	273.0
+	"Grayson County, TX"	"48181"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	14	4864	Unreliable
+	"Grayson County, TX"	"48181"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	11	4864	Unreliable
+	"Grayson County, TX"	"48181"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	12	2568	Unreliable
+	"Grayson County, TX"	"48181"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	13	2568	Unreliable
+	"Grayson County, TX"	"48181"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	10	2568	Unreliable
+	"Grayson County, TX"	"48181"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	14	730	Unreliable
+	"Gregg County, TX"	"48183"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	15	3458	Unreliable
+	"Gregg County, TX"	"48183"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	16	1609	Unreliable
+	"Gregg County, TX"	"48183"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	14	6455	Unreliable
+	"Gregg County, TX"	"48183"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	14	3746	Unreliable
+	"Gregg County, TX"	"48183"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	15	2317	Unreliable
+	"Gregg County, TX"	"48183"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	12	705	Unreliable
+	"Guadalupe County, TX"	"48187"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	14	4654	Unreliable
+	"Guadalupe County, TX"	"48187"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	11	1102	Unreliable
+	"Guadalupe County, TX"	"48187"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	12	1102	Unreliable
+	"Guadalupe County, TX"	"48187"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	15	4266	Unreliable
+	"Guadalupe County, TX"	"48187"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	15	2101	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"35-44 years"	"35-44"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	293366	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"45-54 years"	"45-54"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	25	277787	9.0
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"45-54 years"	"45-54"	"Acute myocardial infarction, unspecified"	"I21.9"	15	277787	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"45-54 years"	"45-54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	31	277787	11.2
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"45-54 years"	"45-54"	"Atherosclerotic heart disease"	"I25.1"	11	277787	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	23	205534	11.2
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	43	205534	20.9
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	37	205534	18.0
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	39	205534	19.0
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Cardiomyopathy, unspecified"	"I42.9"	14	205534	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Cardiac arrest, unspecified"	"I46.9"	12	205534	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Congestive heart failure"	"I50.0"	10	205534	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	18	105036	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	64	105036	60.9
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	56	105036	53.3
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	72	105036	68.5
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Cardiac arrest, unspecified"	"I46.9"	11	105036	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Congestive heart failure"	"I50.0"	23	105036	21.9
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	59884	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	59884	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	139	59884	232.1
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	47	59884	78.5
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	143	59884	238.8
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Cardiomyopathy, unspecified"	"I42.9"	17	59884	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Cardiac arrest, unspecified"	"I46.9"	30	59884	50.1
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atrial fibrillation and flutter"	"I48"	17	59884	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	75	59884	125.2
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Heart disease, unspecified"	"I51.9"	10	59884	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	35	24717	141.6
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	24	24717	97.1
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	137	24717	554.3
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	66	24717	267.0
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	255	24717	1031.7
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	17	24717	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	32	24717	129.5
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Cardiomyopathy, unspecified"	"I42.9"	10	24717	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Cardiac arrest, unspecified"	"I46.9"	52	24717	210.4
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atrial fibrillation and flutter"	"I48"	35	24717	141.6
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Cardiac arrhythmia, unspecified"	"I49.9"	13	24717	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	128	24717	517.9
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Heart disease, unspecified"	"I51.9"	29	24717	117.3
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"35-44 years"	"35-44"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	17	294916	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"35-44 years"	"35-44"	"Acute myocardial infarction, unspecified"	"I21.9"	15	294916	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"35-44 years"	"35-44"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	30	294916	10.2
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	25	270763	9.2
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Acute myocardial infarction, unspecified"	"I21.9"	59	270763	21.8
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	113	270763	41.7
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic heart disease"	"I25.1"	28	270763	10.3
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	38	193632	19.6
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	112	193632	57.8
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	181	193632	93.5
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	73	193632	37.7
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Cardiomyopathy, unspecified"	"I42.9"	12	193632	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Cardiac arrest, unspecified"	"I46.9"	11	193632	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Congestive heart failure"	"I50.0"	26	193632	13.4
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	29	90466	32.1
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	104	90466	115.0
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	116	90466	128.2
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	126	90466	139.3
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	10	90466	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Cardiomyopathy, unspecified"	"I42.9"	16	90466	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Cardiac arrest, unspecified"	"I46.9"	18	90466	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Congestive heart failure"	"I50.0"	32	90466	35.4
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	17	41413	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	114	41413	275.3
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	84	41413	202.8
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	190	41413	458.8
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Cardiomyopathy, unspecified"	"I42.9"	19	41413	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Cardiac arrest, unspecified"	"I46.9"	23	41413	55.5
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	73	41413	176.3
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Heart disease, unspecified"	"I51.9"	11	41413	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	20	11971	167.1
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	99	11971	827.0
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	50	11971	417.7
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	149	11971	1244.7
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Ischaemic cardiomyopathy"	"I25.5"	10	11971	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	13	11971	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Cardiomyopathy, unspecified"	"I42.9"	17	11971	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Cardiac arrest, unspecified"	"I46.9"	19	11971	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atrial fibrillation and flutter"	"I48"	20	11971	167.1
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	75	11971	626.5
+	"Hays County, TX"	"48209"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	10	2155	Unreliable
+	"Hays County, TX"	"48209"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	13	453	Unreliable
+	"Henderson County, TX"	"48213"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	11	2662	Unreliable
+	"Henderson County, TX"	"48213"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	15	4202	Unreliable
+	"Henderson County, TX"	"48213"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	11	2115	Unreliable
+	"Henderson County, TX"	"48213"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	11	537	Unreliable
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Female"	"F"	"45-54 years"	"45-54"	"Acute myocardial infarction, unspecified"	"I21.9"	12	42034	Unreliable
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	17	32566	Unreliable
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	28	21533	130.0
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	57	13528	421.3
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	20	13528	147.8
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	73	4738	1540.7
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	4738	Unreliable
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	29	4738	612.1
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atrial fibrillation and flutter"	"I48"	11	4738	Unreliable
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	15	4738	Unreliable
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Male"	"M"	"35-44 years"	"35-44"	"Acute myocardial infarction, unspecified"	"I21.9"	12	48563	Unreliable
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Acute myocardial infarction, unspecified"	"I21.9"	26	38007	68.4
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	60	27850	215.4
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	61	18193	335.3
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	18	18193	Unreliable
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	82	10985	746.5
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	30	10985	273.1
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	70	3271	2140.0
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	35	3271	1070.0
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	19	3271	Unreliable
+	"Hopkins County, TX"	"48223"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	218	Unreliable
+	"Howard County, TX"	"48227"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	16	334	Unreliable
+	"Hunt County, TX"	"48231"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	10	2041	Unreliable
+	"Hunt County, TX"	"48231"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	14	911	Unreliable
+	"Hunt County, TX"	"48231"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	12	911	Unreliable
+	"Hunt County, TX"	"48231"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	12	911	Unreliable
+	"Hunt County, TX"	"48231"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	15	5124	Unreliable
+	"Hunt County, TX"	"48231"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	17	3424	Unreliable
+	"Jefferson County, TX"	"48245"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	13	6866	Unreliable
+	"Jefferson County, TX"	"48245"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	14	6866	Unreliable
+	"Jefferson County, TX"	"48245"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	16	6866	Unreliable
+	"Jefferson County, TX"	"48245"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	17	2897	Unreliable
+	"Jefferson County, TX"	"48245"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	28	2897	966.5
+	"Jefferson County, TX"	"48245"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	21	2897	724.9
+	"Jefferson County, TX"	"48245"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Heart disease, unspecified"	"I51.9"	14	2897	Unreliable
+	"Jefferson County, TX"	"48245"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic heart disease"	"I25.1"	11	19174	Unreliable
+	"Jefferson County, TX"	"48245"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	15	14481	Unreliable
+	"Jefferson County, TX"	"48245"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	24	14481	165.7
+	"Jefferson County, TX"	"48245"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	25	7302	342.4
+	"Jefferson County, TX"	"48245"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	21	4681	448.6
+	"Jefferson County, TX"	"48245"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	21	4681	448.6
+	"Jefferson County, TX"	"48245"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Heart disease, unspecified"	"I51.9"	11	4681	Unreliable
+	"Jefferson County, TX"	"48245"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	20	1492	1340.5
+	"Johnson County, TX"	"48251"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	10	1079	Unreliable
+	"Johnson County, TX"	"48251"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	13	1079	Unreliable
+	"Johnson County, TX"	"48251"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	13	5080	Unreliable
+	"Johnson County, TX"	"48251"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	12	5080	Unreliable
+	"Johnson County, TX"	"48251"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	13	2263	Unreliable
+	"Johnson County, TX"	"48251"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	12	510	Unreliable
+	"Kaufman County, TX"	"48257"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	10	741	Unreliable
+	"Kaufman County, TX"	"48257"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	10	741	Unreliable
+	"Kaufman County, TX"	"48257"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	10	3058	Unreliable
+	"Kendall County, TX"	"48259"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	11	511	Unreliable
+	"Lamar County, TX"	"48277"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	12	728	Unreliable
+	"Lamar County, TX"	"48277"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	10	728	Unreliable
+	"Lamar County, TX"	"48277"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	12	2181	Unreliable
+	"Lamar County, TX"	"48277"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	12	1069	Unreliable
+	"Liberty County, TX"	"48291"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	18	574	Unreliable
+	"Liberty County, TX"	"48291"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	10	4493	Unreliable
+	"Liberty County, TX"	"48291"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	15	2437	Unreliable
+	"Liberty County, TX"	"48291"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	11	1128	Unreliable
+	"Lubbock County, TX"	"48303"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	13	14234	Unreliable
+	"Lubbock County, TX"	"48303"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	17	5978	Unreliable
+	"Lubbock County, TX"	"48303"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	32	5978	535.3
+	"Lubbock County, TX"	"48303"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	11	5978	Unreliable
+	"Lubbock County, TX"	"48303"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	12	2735	Unreliable
+	"Lubbock County, TX"	"48303"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	35	2735	1279.7
+	"Lubbock County, TX"	"48303"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	33	2735	1206.6
+	"Lubbock County, TX"	"48303"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Acute myocardial infarction, unspecified"	"I21.9"	11	16849	Unreliable
+	"Lubbock County, TX"	"48303"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	13	13104	Unreliable
+	"Lubbock County, TX"	"48303"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	12	13104	Unreliable
+	"Lubbock County, TX"	"48303"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	14	7380	Unreliable
+	"Lubbock County, TX"	"48303"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	19	4266	Unreliable
+	"Lubbock County, TX"	"48303"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	15	4266	Unreliable
+	"Lubbock County, TX"	"48303"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	27	1312	2057.9
+	"McLennan County, TX"	"48309"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	19	5776	Unreliable
+	"McLennan County, TX"	"48309"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	11	5776	Unreliable
+	"McLennan County, TX"	"48309"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	29	2857	1015.1
+	"McLennan County, TX"	"48309"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	16	2857	Unreliable
+	"McLennan County, TX"	"48309"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	29	2857	1015.1
+	"McLennan County, TX"	"48309"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	26	11966	217.3
+	"McLennan County, TX"	"48309"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	17	6981	Unreliable
+	"McLennan County, TX"	"48309"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	25	4108	608.6
+	"McLennan County, TX"	"48309"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	10	4108	Unreliable
+	"McLennan County, TX"	"48309"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	19	1330	Unreliable
+	"McLennan County, TX"	"48309"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	15	1330	Unreliable
+	"McLennan County, TX"	"48309"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	15	1330	Unreliable
+	"Medina County, TX"	"48325"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	10	471	Unreliable
+	"Midland County, TX"	"48329"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	13	1273	Unreliable
+	"Midland County, TX"	"48329"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	13	7345	Unreliable
+	"Midland County, TX"	"48329"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	13	2245	Unreliable
+	"Midland County, TX"	"48329"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	10	2245	Unreliable
+	"Midland County, TX"	"48329"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	10	670	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	10	15260	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	10	15260	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Cardiac arrest, unspecified"	"I46.9"	11	15260	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	17	7855	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	15	7855	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Cardiac arrest, unspecified"	"I46.9"	12	7855	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	14	3137	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	19	3137	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Cardiac arrest, unspecified"	"I46.9"	20	3137	637.6
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	31	3137	988.2
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic heart disease"	"I25.1"	16	34040	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	16	25697	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	25697	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	17	25697	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	22	13909	158.2
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	14	13909	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Cardiac arrest, unspecified"	"I46.9"	11	13909	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	18	5844	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	37	5844	633.1
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Cardiac arrest, unspecified"	"I46.9"	12	5844	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	17	5844	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	11	1399	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	16	1399	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	18	1399	Unreliable
+	"Nacogdoches County, TX"	"48347"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	11	1032	Unreliable
+	"Nueces County, TX"	"48355"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	11	11773	Unreliable
+	"Nueces County, TX"	"48355"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	10	11773	Unreliable
+	"Nueces County, TX"	"48355"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	21	8187	256.5
+	"Nueces County, TX"	"48355"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	26	3453	753.0
+	"Nueces County, TX"	"48355"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	20	3453	579.2
+	"Nueces County, TX"	"48355"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	10	19553	Unreliable
+	"Nueces County, TX"	"48355"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	19	19553	Unreliable
+	"Nueces County, TX"	"48355"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	23	10236	224.7
+	"Nueces County, TX"	"48355"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	20	5481	364.9
+	"Nueces County, TX"	"48355"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	22	5481	401.4
+	"Nueces County, TX"	"48355"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	1783	Unreliable
+	"Nueces County, TX"	"48355"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	28	1783	1570.4
+	"Orange County, TX"	"48361"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	17	808	Unreliable
+	"Orange County, TX"	"48361"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	11	4947	Unreliable
+	"Orange County, TX"	"48361"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	10	3001	Unreliable
+	"Orange County, TX"	"48361"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	13	1676	Unreliable
+	"Orange County, TX"	"48361"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	13	1676	Unreliable
+	"Parker County, TX"	"48367"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	11	907	Unreliable
+	"Parker County, TX"	"48367"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	13	1894	Unreliable
+	"Parker County, TX"	"48367"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	13	1894	Unreliable
+	"Parker County, TX"	"48367"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	13	433	Unreliable
+	"Polk County, TX"	"48373"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	13	2551	Unreliable
+	"Potter County, TX"	"48375"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	10	2577	Unreliable
+	"Potter County, TX"	"48375"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	23	1360	1691.2
+	"Potter County, TX"	"48375"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	19	1360	Unreliable
+	"Potter County, TX"	"48375"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	10	1360	Unreliable
+	"Potter County, TX"	"48375"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	10	1810	Unreliable
+	"Potter County, TX"	"48375"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	16	600	Unreliable
+	"Randall County, TX"	"48381"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	1060	Unreliable
+	"Randall County, TX"	"48381"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	16	1060	Unreliable
+	"Randall County, TX"	"48381"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	10	6788	Unreliable
+	"Randall County, TX"	"48381"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	12	2224	Unreliable
+	"Randall County, TX"	"48381"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	11	2224	Unreliable
+	"Randall County, TX"	"48381"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	11	527	Unreliable
+	"Smith County, TX"	"48423"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	10	12467	Unreliable
+	"Smith County, TX"	"48423"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	11	8605	Unreliable
+	"Smith County, TX"	"48423"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	22	5800	379.3
+	"Smith County, TX"	"48423"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	17	5800	Unreliable
+	"Smith County, TX"	"48423"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	16	2556	Unreliable
+	"Smith County, TX"	"48423"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	16	2556	Unreliable
+	"Smith County, TX"	"48423"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	15	2556	Unreliable
+	"Smith County, TX"	"48423"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	18	2556	Unreliable
+	"Smith County, TX"	"48423"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	18	2556	Unreliable
+	"Smith County, TX"	"48423"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Acute myocardial infarction, unspecified"	"I21.9"	11	13151	Unreliable
+	"Smith County, TX"	"48423"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	21	11191	187.7
+	"Smith County, TX"	"48423"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	20	7409	269.9
+	"Smith County, TX"	"48423"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	18	4175	Unreliable
+	"Smith County, TX"	"48423"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	11	4175	Unreliable
+	"Smith County, TX"	"48423"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	17	1306	Unreliable
+	"Smith County, TX"	"48423"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	11	1306	Unreliable
+	"Smith County, TX"	"48423"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	11	1306	Unreliable
+	"Smith County, TX"	"48423"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	11	1306	Unreliable
+	"Starr County, TX"	"48427"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	10	1081	Unreliable
+	"Starr County, TX"	"48427"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	11	442	Unreliable
+	"Starr County, TX"	"48427"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	10	1681	Unreliable
+	"Starr County, TX"	"48427"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	14	884	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"45-54 years"	"45-54"	"Acute myocardial infarction, unspecified"	"I21.9"	15	130476	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"45-54 years"	"45-54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	130476	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	29	93386	31.1
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	23	93386	24.6
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	20	93386	21.4
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	46	49727	92.5
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	25	49727	50.3
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	33	49727	66.4
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Congestive heart failure"	"I50.0"	11	49727	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	88	29771	295.6
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	31	29771	104.1
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	79	29771	265.4
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atrial fibrillation and flutter"	"I48"	19	29771	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	26	29771	87.3
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	15	13423	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	13	13423	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	133	13423	990.8
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	13423	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	110	13423	819.5
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	17	13423	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Cardiomyopathy, unspecified"	"I42.9"	14	13423	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atrial fibrillation and flutter"	"I48"	35	13423	260.7
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Cardiac arrhythmia, unspecified"	"I49.9"	16	13423	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	79	13423	588.5
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Cardiovascular disease, unspecified"	"I51.6"	11	13423	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Heart disease, unspecified"	"I51.9"	12	13423	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	19	127465	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Acute myocardial infarction, unspecified"	"I21.9"	23	127465	18.0
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	35	127465	27.5
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic heart disease"	"I25.1"	20	127465	15.7
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	32	86298	37.1
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	54	86298	62.6
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	75	86298	86.9
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	44	86298	51.0
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	42078	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	68	42078	161.6
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	40	42078	95.1
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	67	42078	159.2
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Congestive heart failure"	"I50.0"	13	42078	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	70	20342	344.1
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	38	20342	186.8
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	98	20342	481.8
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Ischaemic cardiomyopathy"	"I25.5"	11	20342	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	14	20342	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	52	6044	860.4
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	6044	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	82	6044	1356.7
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atrial fibrillation and flutter"	"I48"	12	6044	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	30	6044	496.4
+	"Taylor County, TX"	"48441"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	14	3579	Unreliable
+	"Taylor County, TX"	"48441"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	13	3579	Unreliable
+	"Taylor County, TX"	"48441"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	18	1618	Unreliable
+	"Taylor County, TX"	"48441"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	12	1618	Unreliable
+	"Taylor County, TX"	"48441"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	20	4008	499.0
+	"Taylor County, TX"	"48441"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	17	2473	Unreliable
+	"Taylor County, TX"	"48441"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	17	2473	Unreliable
+	"Taylor County, TX"	"48441"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	14	768	Unreliable
+	"Taylor County, TX"	"48441"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	10	768	Unreliable
+	"Tom Green County, TX"	"48451"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	1391	Unreliable
+	"Tom Green County, TX"	"48451"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	14	1391	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Female"	"F"	"45-54 years"	"45-54"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	65742	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	22967	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	18	13115	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	13115	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	23	13115	175.4
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	34	6335	536.7
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	6335	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	41	6335	647.2
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atrial fibrillation and flutter"	"I48"	14	6335	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	28	6335	442.0
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	66655	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Acute myocardial infarction, unspecified"	"I21.9"	12	66655	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	66655	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic heart disease"	"I25.1"	13	66655	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	46548	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	13	46548	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	34	46548	73.0
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	16	46548	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	13	19849	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	19849	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	22	19849	110.8
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	12	9421	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	9421	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	24	9421	254.8
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Ischaemic cardiomyopathy"	"I25.5"	10	9421	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	17	3072	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	3072	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	29	3072	944.0
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	12	3072	Unreliable
+	"Upshur County, TX"	"48459"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	10	1703	Unreliable
+	"Upshur County, TX"	"48459"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	18	888	Unreliable
+	"Van Zandt County, TX"	"48467"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	31	694	4466.9
+	"Van Zandt County, TX"	"48467"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	10	1327	Unreliable
+	"Victoria County, TX"	"48469"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	10	972	Unreliable
+	"Webb County, TX"	"48479"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	12	3769	Unreliable
+	"Webb County, TX"	"48479"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	12	3769	Unreliable
+	"Webb County, TX"	"48479"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	19	1525	Unreliable
+	"Webb County, TX"	"48479"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	23	1525	1508.2
+	"Webb County, TX"	"48479"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	13	2473	Unreliable
+	"Webb County, TX"	"48479"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	13	2473	Unreliable
+	"Webb County, TX"	"48479"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	14	771	Unreliable
+	"Wichita County, TX"	"48485"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	20	1579	1266.6
+	"Wichita County, TX"	"48485"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	14	2537	Unreliable
+	"Wichita County, TX"	"48485"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	16	2537	Unreliable
+	"Williamson County, TX"	"48491"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	13	6174	Unreliable
+	"Williamson County, TX"	"48491"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	12	6174	Unreliable
+	"Williamson County, TX"	"48491"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	16	2690	Unreliable
+	"Williamson County, TX"	"48491"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	12	2690	Unreliable
+	"Williamson County, TX"	"48491"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	18	2690	Unreliable
+	"Williamson County, TX"	"48491"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	13	18616	Unreliable
+	"Williamson County, TX"	"48491"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	14	10596	Unreliable
+	"Williamson County, TX"	"48491"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	10596	Unreliable
+	"Williamson County, TX"	"48491"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	10	4802	Unreliable
+	"Williamson County, TX"	"48491"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	13	4802	Unreliable
+	"Williamson County, TX"	"48491"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	1292	Unreliable
+	"Williamson County, TX"	"48491"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	13	1292	Unreliable
+	"Williamson County, TX"	"48491"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	13	1292	Unreliable
+	"Wilson County, TX"	"48493"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	10	788	Unreliable
+	"Davis County, UT"	"49011"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	17	4431	Unreliable
+	"Davis County, UT"	"49011"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	16	1912	Unreliable
+	"Davis County, UT"	"49011"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	13	1912	Unreliable
+	"Davis County, UT"	"49011"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	11	3644	Unreliable
+	"Davis County, UT"	"49011"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	17	1130	Unreliable
+	"Davis County, UT"	"49011"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	13	1130	Unreliable
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	10	26377	Unreliable
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	11	26377	Unreliable
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	26	16118	161.3
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	18	16118	Unreliable
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atrial fibrillation and flutter"	"I48"	15	16118	Unreliable
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	29	16118	179.9
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Cardiovascular disease, unspecified"	"I51.6"	19	16118	Unreliable
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	29	7607	381.2
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	45	7607	591.6
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	10	7607	Unreliable
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atrial fibrillation and flutter"	"I48"	27	7607	354.9
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	64	7607	841.3
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Cardiovascular disease, unspecified"	"I51.6"	11	7607	Unreliable
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Heart disease, unspecified"	"I51.9"	10	7607	Unreliable
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic heart disease"	"I25.1"	14	61581	Unreliable
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	18	47164	Unreliable
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	23	47164	48.8
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	22	23118	95.2
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	34	23118	147.1
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Congestive heart failure"	"I50.0"	11	23118	Unreliable
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	40	12033	332.4
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	37	12033	307.5
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	20	12033	166.2
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Cardiovascular disease, unspecified"	"I51.6"	11	12033	Unreliable
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	14	4114	Unreliable
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	47	4114	1142.4
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	33	4114	802.1
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Cardiovascular disease, unspecified"	"I51.6"	12	4114	Unreliable
+	"Utah County, UT"	"49049"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	14	5961	Unreliable
+	"Utah County, UT"	"49049"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	13	5961	Unreliable
+	"Utah County, UT"	"49049"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	16	2627	Unreliable
+	"Utah County, UT"	"49049"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	45	2627	1713.0
+	"Utah County, UT"	"49049"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	10	8640	Unreliable
+	"Utah County, UT"	"49049"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	16	4895	Unreliable
+	"Utah County, UT"	"49049"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	10	4895	Unreliable
+	"Utah County, UT"	"49049"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	17	1487	Unreliable
+	"Utah County, UT"	"49049"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	23	1487	1546.7
+	"Washington County, UT"	"49053"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	10	6082	Unreliable
+	"Washington County, UT"	"49053"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	12	4049	Unreliable
+	"Weber County, UT"	"49057"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	16	2061	Unreliable
+	"Weber County, UT"	"49057"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	20	2061	970.4
+	"Weber County, UT"	"49057"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	20	3454	579.0
+	"Weber County, UT"	"49057"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	17	1186	Unreliable
+	"Weber County, UT"	"49057"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	17	1186	Unreliable
+	"Chittenden County, VT"	"50007"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	1820	Unreliable
+	"Chittenden County, VT"	"50007"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	17	1820	Unreliable
+	"Chittenden County, VT"	"50007"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	14	771	Unreliable
+	"Rutland County, VT"	"50021"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	11	1003	Unreliable
+	"Rutland County, VT"	"50021"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	11	2646	Unreliable
+	"Rutland County, VT"	"50021"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	12	438	Unreliable
+	"Albemarle County, VA"	"51003"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	12	1475	Unreliable
+	"Arlington County, VA"	"51013"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	1940	Unreliable
+	"Arlington County, VA"	"51013"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	14	1940	Unreliable
+	"Augusta County, VA"	"51015"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	11	1729	Unreliable
+	"Augusta County, VA"	"51015"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	414	Unreliable
+	"Bedford County, VA"	"51019"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	10	1540	Unreliable
+	"Chesterfield County, VA"	"51041"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	11	5741	Unreliable
+	"Chesterfield County, VA"	"51041"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	19	5741	Unreliable
+	"Chesterfield County, VA"	"51041"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	13	2387	Unreliable
+	"Chesterfield County, VA"	"51041"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	16	2387	Unreliable
+	"Chesterfield County, VA"	"51041"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	18	2387	Unreliable
+	"Chesterfield County, VA"	"51041"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	16	9161	Unreliable
+	"Chesterfield County, VA"	"51041"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	23	4086	562.9
+	"Chesterfield County, VA"	"51041"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	11	1109	Unreliable
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	10	32548	Unreliable
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	15	17315	Unreliable
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	27	17315	155.9
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	22	17315	127.1
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	11	8376	Unreliable
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	35	8376	417.9
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	8376	Unreliable
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	54	8376	644.7
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	10	8376	Unreliable
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Cardiac arrest, unspecified"	"I46.9"	14	8376	Unreliable
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atrial fibrillation and flutter"	"I48"	17	8376	Unreliable
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	55	8376	656.6
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	85037	Unreliable
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	15	63567	Unreliable
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	63567	Unreliable
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	14	63567	Unreliable
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	27	30419	88.8
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	16	13174	Unreliable
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	32	13174	242.9
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	17	13174	Unreliable
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	28	4458	628.1
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	46	4458	1031.9
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Cardiomyopathy, unspecified"	"I42.9"	12	4458	Unreliable
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atrial fibrillation and flutter"	"I48"	10	4458	Unreliable
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	29	4458	650.5
+	"Frederick County, VA"	"51069"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	10	1347	Unreliable
+	"Hanover County, VA"	"51085"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	15	1111	Unreliable
+	"Henrico County, VA"	"51087"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	10	10874	Unreliable
+	"Henrico County, VA"	"51087"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	17	7951	Unreliable
+	"Henrico County, VA"	"51087"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	17	7951	Unreliable
+	"Henrico County, VA"	"51087"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	11	4312	Unreliable
+	"Henrico County, VA"	"51087"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	31	4312	718.9
+	"Henrico County, VA"	"51087"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	30	4312	695.7
+	"Henrico County, VA"	"51087"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	12	16219	Unreliable
+	"Henrico County, VA"	"51087"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	14	8181	Unreliable
+	"Henrico County, VA"	"51087"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	10	8181	Unreliable
+	"Henrico County, VA"	"51087"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	11	4789	Unreliable
+	"Henrico County, VA"	"51087"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	18	4789	Unreliable
+	"Henrico County, VA"	"51087"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	13	4789	Unreliable
+	"Henrico County, VA"	"51087"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	13	1817	Unreliable
+	"Henrico County, VA"	"51087"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	17	1817	Unreliable
+	"Henrico County, VA"	"51087"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	10	1817	Unreliable
+	"Henry County, VA"	"51089"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	13	791	Unreliable
+	"James City County, VA"	"51095"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	1130	Unreliable
+	"James City County, VA"	"51095"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	11	1130	Unreliable
+	"Loudoun County, VA"	"51107"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	1518	Unreliable
+	"Loudoun County, VA"	"51107"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	10	1518	Unreliable
+	"Pittsylvania County, VA"	"51143"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	11	1407	Unreliable
+	"Prince Edward County, VA"	"51147"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	15	392	Unreliable
+	"Prince William County, VA"	"51153"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	10	4057	Unreliable
+	"Prince William County, VA"	"51153"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	23	1659	1386.4
+	"Prince William County, VA"	"51153"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	17	1659	Unreliable
+	"Prince William County, VA"	"51153"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	17	18726	Unreliable
+	"Prince William County, VA"	"51153"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	13	8354	Unreliable
+	"Prince William County, VA"	"51153"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	14	2954	Unreliable
+	"Pulaski County, VA"	"51155"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	504	Unreliable
+	"Roanoke County, VA"	"51161"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	11	1458	Unreliable
+	"Roanoke County, VA"	"51161"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	10	1458	Unreliable
+	"Roanoke County, VA"	"51161"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	19	1458	Unreliable
+	"Rockingham County, VA"	"51165"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	10	1732	Unreliable
+	"Rockingham County, VA"	"51165"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	534	Unreliable
+	"Smyth County, VA"	"51173"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	15	487	Unreliable
+	"Spotsylvania County, VA"	"51177"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	11	912	Unreliable
+	"Tazewell County, VA"	"51185"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	631	Unreliable
+	"Tazewell County, VA"	"51185"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	16	631	Unreliable
+	"Washington County, VA"	"51191"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	698	Unreliable
+	"Washington County, VA"	"51191"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	15	698	Unreliable
+	"Wise County, VA"	"51195"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	478	Unreliable
+	"Alexandria city, VA"	"51510"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	14	1364	Unreliable
+	"Chesapeake city, VA"	"51550"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	11	4262	Unreliable
+	"Chesapeake city, VA"	"51550"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	23	1822	1262.3
+	"Chesapeake city, VA"	"51550"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	14	1822	Unreliable
+	"Chesapeake city, VA"	"51550"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	14	6102	Unreliable
+	"Chesapeake city, VA"	"51550"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	13	2838	Unreliable
+	"Chesapeake city, VA"	"51550"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	14	2838	Unreliable
+	"Chesapeake city, VA"	"51550"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	11	842	Unreliable
+	"Chesapeake city, VA"	"51550"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	14	842	Unreliable
+	"Danville city, VA"	"51590"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	16	1018	Unreliable
+	"Danville city, VA"	"51590"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	11	1064	Unreliable
+	"Hampton city, VA"	"51650"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	11	3252	Unreliable
+	"Hampton city, VA"	"51650"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	12	1389	Unreliable
+	"Hampton city, VA"	"51650"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	12	4133	Unreliable
+	"Hampton city, VA"	"51650"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	11	2248	Unreliable
+	"Newport News city, VA"	"51700"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	17	3885	Unreliable
+	"Newport News city, VA"	"51700"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	12	1846	Unreliable
+	"Newport News city, VA"	"51700"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	11	4537	Unreliable
+	"Newport News city, VA"	"51700"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	11	763	Unreliable
+	"Norfolk city, VA"	"51710"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	14	4854	Unreliable
+	"Norfolk city, VA"	"51710"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	10	4854	Unreliable
+	"Norfolk city, VA"	"51710"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	13	2310	Unreliable
+	"Norfolk city, VA"	"51710"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	24	2310	1039.0
+	"Norfolk city, VA"	"51710"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	22	2310	952.4
+	"Norfolk city, VA"	"51710"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	12	10482	Unreliable
+	"Norfolk city, VA"	"51710"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Other forms of acute ischaemic heart disease"	"I24.8"	10	10482	Unreliable
+	"Norfolk city, VA"	"51710"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	12	2964	Unreliable
+	"Norfolk city, VA"	"51710"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	14	1202	Unreliable
+	"Portsmouth city, VA"	"51740"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	11	1405	Unreliable
+	"Portsmouth city, VA"	"51740"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	12	2733	Unreliable
+	"Portsmouth city, VA"	"51740"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	12	639	Unreliable
+	"Richmond city, VA"	"51760"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	10	4677	Unreliable
+	"Richmond city, VA"	"51760"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	12	4677	Unreliable
+	"Richmond city, VA"	"51760"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	16	2680	Unreliable
+	"Richmond city, VA"	"51760"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	11	2680	Unreliable
+	"Richmond city, VA"	"51760"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	10	4887	Unreliable
+	"Richmond city, VA"	"51760"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	13	2703	Unreliable
+	"Richmond city, VA"	"51760"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	15	1159	Unreliable
+	"Roanoke city, VA"	"51770"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	16	3014	Unreliable
+	"Roanoke city, VA"	"51770"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	16	1746	Unreliable
+	"Roanoke city, VA"	"51770"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	32	1746	1832.8
+	"Roanoke city, VA"	"51770"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	11	5746	Unreliable
+	"Roanoke city, VA"	"51770"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	10	1725	Unreliable
+	"Roanoke city, VA"	"51770"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	10	717	Unreliable
+	"Roanoke city, VA"	"51770"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	10	717	Unreliable
+	"Suffolk city, VA"	"51800"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	11	805	Unreliable
+	"Virginia Beach city, VA"	"51810"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	14	8821	Unreliable
+	"Virginia Beach city, VA"	"51810"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	15	8821	Unreliable
+	"Virginia Beach city, VA"	"51810"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	12	3818	Unreliable
+	"Virginia Beach city, VA"	"51810"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	26	3818	681.0
+	"Virginia Beach city, VA"	"51810"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	12	3818	Unreliable
+	"Virginia Beach city, VA"	"51810"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	27	3818	707.2
+	"Virginia Beach city, VA"	"51810"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	11	21943	Unreliable
+	"Virginia Beach city, VA"	"51810"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	11	11676	Unreliable
+	"Virginia Beach city, VA"	"51810"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	14	11676	Unreliable
+	"Virginia Beach city, VA"	"51810"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	19	6068	Unreliable
+	"Virginia Beach city, VA"	"51810"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	27	6068	445.0
+	"Virginia Beach city, VA"	"51810"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	18	6068	Unreliable
+	"Virginia Beach city, VA"	"51810"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	13	1812	Unreliable
+	"Virginia Beach city, VA"	"51810"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	21	1812	1158.9
+	"Virginia Beach city, VA"	"51810"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	18	1812	Unreliable
+	"Benton County, WA"	"53005"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	11	1838	Unreliable
+	"Benton County, WA"	"53005"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	21	1838	1142.5
+	"Benton County, WA"	"53005"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	10	5613	Unreliable
+	"Benton County, WA"	"53005"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	16	2732	Unreliable
+	"Benton County, WA"	"53005"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	10	2732	Unreliable
+	"Benton County, WA"	"53005"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	16	940	Unreliable
+	"Chelan County, WA"	"53007"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	11	1163	Unreliable
+	"Clallam County, WA"	"53009"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	17	1560	Unreliable
+	"Clallam County, WA"	"53009"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	21	2551	823.2
+	"Clallam County, WA"	"53009"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	22	953	2308.5
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	14	8111	Unreliable
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	20	8111	246.6
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	4256	Unreliable
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	21	4256	493.4
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	43	4256	1010.3
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	19	4256	Unreliable
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	12	4256	Unreliable
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	30600	Unreliable
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	16	25216	Unreliable
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	11	13582	Unreliable
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	15	13582	Unreliable
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	18	6109	Unreliable
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	33	6109	540.2
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	11	2152	Unreliable
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	2152	Unreliable
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	37	2152	1719.3
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	10	2152	Unreliable
+	"Cowlitz County, WA"	"53015"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	11	2702	Unreliable
+	"Cowlitz County, WA"	"53015"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	15	1426	Unreliable
+	"Cowlitz County, WA"	"53015"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	13	1426	Unreliable
+	"Cowlitz County, WA"	"53015"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	10	4317	Unreliable
+	"Cowlitz County, WA"	"53015"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	14	2143	Unreliable
+	"Cowlitz County, WA"	"53015"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	14	2143	Unreliable
+	"Cowlitz County, WA"	"53015"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	12	743	Unreliable
+	"Grays Harbor County, WA"	"53027"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	13	902	Unreliable
+	"Island County, WA"	"53029"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	12	668	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"45-54 years"	"45-54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	144574	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	10	116789	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	116789	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	10	116789	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	21	59652	35.2
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	22	59652	36.9
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	16	59652	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	40	37234	107.4
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	30	37234	80.6
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	73	37234	196.1
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Aortic (valve) stenosis"	"I35.0"	12	37234	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atrial fibrillation and flutter"	"I48"	11	37234	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	65	22602	287.6
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	22602	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	10	22602	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	123	22602	544.2
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	68	22602	300.9
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	223	22602	986.6
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Ischaemic cardiomyopathy"	"I25.5"	14	22602	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Other secondary pulmonary hypertension"	"I27.2"	10	22602	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	54	22602	238.9
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Endocarditis, valve unspecified"	"I38"	13	22602	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Cardiomyopathy, unspecified"	"I42.9"	12	22602	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atrial fibrillation and flutter"	"I48"	39	22602	172.6
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	64	22602	283.2
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Cardiovascular disease, unspecified"	"I51.6"	10	22602	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Acute myocardial infarction, unspecified"	"I21.9"	17	146558	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	34	146558	23.2
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic heart disease"	"I25.1"	15	146558	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	47	111428	42.2
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	82	111428	73.6
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	32	111428	28.7
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	38	53095	71.6
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	52	53095	97.9
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	51	53095	96.1
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	58	26914	215.5
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	41	26914	152.3
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	113	26914	419.9
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Ischaemic cardiomyopathy"	"I25.5"	10	26914	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Aortic (valve) stenosis"	"I35.0"	11	26914	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	25	11182	223.6
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	65	11182	581.3
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	63	11182	563.4
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	153	11182	1368.3
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Ischaemic cardiomyopathy"	"I25.5"	26	11182	232.5
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	10	11182	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	31	11182	277.2
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Cardiomyopathy, unspecified"	"I42.9"	15	11182	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atrial fibrillation and flutter"	"I48"	18	11182	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	18	11182	Unreliable
+	"Kitsap County, WA"	"53035"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	13	5410	Unreliable
+	"Kitsap County, WA"	"53035"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	28	2939	952.7
+	"Kitsap County, WA"	"53035"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	10	2939	Unreliable
+	"Kitsap County, WA"	"53035"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	11	2939	Unreliable
+	"Kitsap County, WA"	"53035"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	11	17211	Unreliable
+	"Kitsap County, WA"	"53035"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	12	9415	Unreliable
+	"Kitsap County, WA"	"53035"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	14	4224	Unreliable
+	"Kitsap County, WA"	"53035"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	16	4224	Unreliable
+	"Kitsap County, WA"	"53035"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	1571	Unreliable
+	"Kitsap County, WA"	"53035"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	34	1571	2164.2
+	"Lewis County, WA"	"53041"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	11	3600	Unreliable
+	"Lewis County, WA"	"53041"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	10	1843	Unreliable
+	"Lewis County, WA"	"53041"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	631	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	11	25929	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	19	25929	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	11	15925	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	28	15925	175.8
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	15925	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	49	15925	307.7
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Aortic (valve) stenosis"	"I35.0"	10	15925	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	29	7489	387.2
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	44	7489	587.5
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	39	7489	520.8
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	77	7489	1028.2
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Ischaemic cardiomyopathy"	"I25.5"	11	7489	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	10	7489	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	19	7489	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atrial fibrillation and flutter"	"I48"	10	7489	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	18	7489	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Acute myocardial infarction, unspecified"	"I21.9"	17	59275	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	14	59275	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	34	44400	76.6
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	44400	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	28	44400	63.1
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	11	44400	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	23	22978	100.1
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	22978	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	44	22978	191.5
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	10	22978	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	36	11772	305.8
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	11772	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	80	11772	679.6
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Ischaemic cardiomyopathy"	"I25.5"	12	11772	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	3692	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	31	3692	839.7
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	26	3692	704.2
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	80	3692	2166.8
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	10	3692	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	15	3692	Unreliable
+	"Skagit County, WA"	"53057"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Aortic (valve) stenosis"	"I35.0"	10	3207	Unreliable
+	"Skagit County, WA"	"53057"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	1731	Unreliable
+	"Skagit County, WA"	"53057"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	24	1731	1386.5
+	"Skagit County, WA"	"53057"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	12	1731	Unreliable
+	"Skagit County, WA"	"53057"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	12	2720	Unreliable
+	"Skagit County, WA"	"53057"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	21	959	2189.8
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	10	43160	Unreliable
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	12	21732	Unreliable
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	22	13077	168.2
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	13077	152.9
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	30	13077	229.4
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	19	6773	Unreliable
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	33	6773	487.2
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	43	6773	634.9
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	74	6773	1092.6
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	17	6773	Unreliable
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Acute myocardial infarction, unspecified"	"I21.9"	14	57588	Unreliable
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	57588	Unreliable
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	21	41423	50.7
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	27	41423	65.2
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	16	41423	Unreliable
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	25	19287	129.6
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	19287	Unreliable
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	27	19287	140.0
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	16	9240	Unreliable
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	9240	Unreliable
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	46	9240	497.8
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	3435	Unreliable
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	33	3435	960.7
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	22	3435	640.5
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	42	3435	1222.7
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	14	16943	Unreliable
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	11	16943	Unreliable
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	11	11273	Unreliable
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	24	11273	212.9
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	23	6256	367.6
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	28	6256	447.6
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	6256	Unreliable
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	55	6256	879.2
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	23	6256	367.6
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atrial fibrillation and flutter"	"I48"	12	6256	Unreliable
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	10	6256	Unreliable
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Dilated cardiomyopathy"	"I42.0"	10	33438	Unreliable
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	28818	Unreliable
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	24	28818	83.3
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	15222	Unreliable
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	23	15222	151.1
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	21	8162	257.3
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	48	8162	588.1
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	23	3113	738.8
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	3113	Unreliable
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	49	3113	1574.0
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Ischaemic cardiomyopathy"	"I25.5"	10	3113	Unreliable
+	"Stevens County, WA"	"53065"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	10	475	Unreliable
+	"Thurston County, WA"	"53067"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	34	3031	1121.7
+	"Thurston County, WA"	"53067"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	12	16106	Unreliable
+	"Thurston County, WA"	"53067"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	16	8618	Unreliable
+	"Thurston County, WA"	"53067"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	18	4348	Unreliable
+	"Thurston County, WA"	"53067"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	1516	Unreliable
+	"Thurston County, WA"	"53067"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	31	1516	2044.9
+	"Walla Walla County, WA"	"53071"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	10	1045	Unreliable
+	"Whatcom County, WA"	"53073"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	17	2460	Unreliable
+	"Whatcom County, WA"	"53073"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	20	2460	813.0
+	"Whatcom County, WA"	"53073"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	10	7194	Unreliable
+	"Whatcom County, WA"	"53073"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	21	3695	568.3
+	"Whatcom County, WA"	"53073"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	15	3695	Unreliable
+	"Whatcom County, WA"	"53073"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	11	1283	Unreliable
+	"Whatcom County, WA"	"53073"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	17	1283	Unreliable
+	"Yakima County, WA"	"53077"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	24	7905	303.6
+	"Yakima County, WA"	"53077"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	23	4979	461.9
+	"Yakima County, WA"	"53077"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	18	4979	Unreliable
+	"Yakima County, WA"	"53077"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	49	2670	1835.2
+	"Yakima County, WA"	"53077"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	31	2670	1161.0
+	"Yakima County, WA"	"53077"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Acute myocardial infarction, unspecified"	"I21.9"	14	15303	Unreliable
+	"Yakima County, WA"	"53077"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	37	12357	299.4
+	"Yakima County, WA"	"53077"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	27	7294	370.2
+	"Yakima County, WA"	"53077"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	23	3877	593.2
+	"Yakima County, WA"	"53077"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	21	3877	541.7
+	"Yakima County, WA"	"53077"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	30	1397	2147.5
+	"Yakima County, WA"	"53077"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	18	1397	Unreliable
+	"Berkeley County, WV"	"54003"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	10	3464	Unreliable
+	"Cabell County, WV"	"54011"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	12	1429	Unreliable
+	"Cabell County, WV"	"54011"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	10	1429	Unreliable
+	"Cabell County, WV"	"54011"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	10	6008	Unreliable
+	"Cabell County, WV"	"54011"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	16	2065	Unreliable
+	"Fayette County, WV"	"54019"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	11	700	Unreliable
+	"Fayette County, WV"	"54019"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	13	1061	Unreliable
+	"Greenbrier County, WV"	"54025"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	11	582	Unreliable
+	"Hancock County, WV"	"54029"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	14	559	Unreliable
+	"Harrison County, WV"	"54033"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	1116	Unreliable
+	"Harrison County, WV"	"54033"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	11	4688	Unreliable
+	"Harrison County, WV"	"54033"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	10	1540	Unreliable
+	"Jefferson County, WV"	"54037"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	11	448	Unreliable
+	"Kanawha County, WV"	"54039"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	15	9194	Unreliable
+	"Kanawha County, WV"	"54039"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	12	6869	Unreliable
+	"Kanawha County, WV"	"54039"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	22	6869	320.3
+	"Kanawha County, WV"	"54039"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	15	2932	Unreliable
+	"Kanawha County, WV"	"54039"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	2932	Unreliable
+	"Kanawha County, WV"	"54039"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	27	2932	920.9
+	"Kanawha County, WV"	"54039"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	13	2932	Unreliable
+	"Kanawha County, WV"	"54039"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	12	13569	Unreliable
+	"Kanawha County, WV"	"54039"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	21	7653	274.4
+	"Kanawha County, WV"	"54039"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	12	4282	Unreliable
+	"Kanawha County, WV"	"54039"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	29	4282	677.3
+	"Kanawha County, WV"	"54039"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	16	1385	Unreliable
+	"Kanawha County, WV"	"54039"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	20	1385	1444.0
+	"Marion County, WV"	"54049"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	11	1891	Unreliable
+	"Marion County, WV"	"54049"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	22	935	2352.9
+	"Mercer County, WV"	"54055"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	17	1091	Unreliable
+	"Mercer County, WV"	"54055"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	10	1091	Unreliable
+	"Mercer County, WV"	"54055"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	13	1505	Unreliable
+	"Ohio County, WV"	"54069"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	12	967	Unreliable
+	"Putnam County, WV"	"54079"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	11	1443	Unreliable
+	"Raleigh County, WV"	"54081"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Cardiac arrest, unspecified"	"I46.9"	12	2637	Unreliable
+	"Raleigh County, WV"	"54081"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	19	1087	Unreliable
+	"Raleigh County, WV"	"54081"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Cardiac arrest, unspecified"	"I46.9"	10	1087	Unreliable
+	"Raleigh County, WV"	"54081"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	11	1760	Unreliable
+	"Wood County, WV"	"54107"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Heart failure, unspecified"	"I50.9"	12	2802	Unreliable
+	"Wood County, WV"	"54107"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	21	1225	1714.3
+	"Wood County, WV"	"54107"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Heart failure, unspecified"	"I50.9"	45	1225	3673.5
+	"Wood County, WV"	"54107"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	12	5771	Unreliable
+	"Wood County, WV"	"54107"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	11	1891	Unreliable
+	"Wood County, WV"	"54107"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	14	1891	Unreliable
+	"Barron County, WI"	"55005"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	13	876	Unreliable
+	"Barron County, WI"	"55005"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	10	876	Unreliable
+	"Brown County, WI"	"55009"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	25	5551	450.4
+	"Brown County, WI"	"55009"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	45	3018	1491.1
+	"Brown County, WI"	"55009"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	12	3018	Unreliable
+	"Brown County, WI"	"55009"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	34	3018	1126.6
+	"Brown County, WI"	"55009"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	26	13855	187.7
+	"Brown County, WI"	"55009"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	18	7058	Unreliable
+	"Brown County, WI"	"55009"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	3939	533.1
+	"Brown County, WI"	"55009"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	11	3939	Unreliable
+	"Brown County, WI"	"55009"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	11	3939	Unreliable
+	"Brown County, WI"	"55009"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	27	1246	2166.9
+	"Brown County, WI"	"55009"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	19	1246	Unreliable
+	"Calumet County, WI"	"55015"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	10	495	Unreliable
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	10	9244	Unreliable
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	16	9244	Unreliable
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	5350	Unreliable
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	31	5350	579.4
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	36	5350	672.9
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	20	5350	373.8
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atrial fibrillation and flutter"	"I48"	12	5350	Unreliable
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	36	5350	672.9
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	13	27451	Unreliable
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	15	27451	Unreliable
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	14	12489	Unreliable
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	19	12489	Unreliable
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	16	6567	Unreliable
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	28	6567	426.4
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	12	6567	Unreliable
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	15	2424	Unreliable
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	30	2424	1237.6
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	19	2424	Unreliable
+	"Dodge County, WI"	"55027"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	19	1473	Unreliable
+	"Dodge County, WI"	"55027"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	12	1473	Unreliable
+	"Dodge County, WI"	"55027"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	14	1889	Unreliable
+	"Dodge County, WI"	"55027"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	13	1889	Unreliable
+	"Dodge County, WI"	"55027"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	15	751	Unreliable
+	"Door County, WI"	"55029"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	585	Unreliable
+	"Eau Claire County, WI"	"55035"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	16	1412	Unreliable
+	"Eau Claire County, WI"	"55035"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	10	1412	Unreliable
+	"Eau Claire County, WI"	"55035"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	13	1745	Unreliable
+	"Eau Claire County, WI"	"55035"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	13	629	Unreliable
+	"Fond du Lac County, WI"	"55039"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	10	3073	Unreliable
+	"Fond du Lac County, WI"	"55039"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	20	1807	1106.8
+	"Fond du Lac County, WI"	"55039"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	16	1807	Unreliable
+	"Fond du Lac County, WI"	"55039"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	16	743	Unreliable
+	"Grant County, WI"	"55043"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	15	914	Unreliable
+	"Jefferson County, WI"	"55055"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	13	967	Unreliable
+	"Jefferson County, WI"	"55055"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	10	5124	Unreliable
+	"Jefferson County, WI"	"55055"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	10	1467	Unreliable
+	"Jefferson County, WI"	"55055"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	10	531	Unreliable
+	"Kenosha County, WI"	"55059"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	12	3650	Unreliable
+	"Kenosha County, WI"	"55059"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	15	1919	Unreliable
+	"Kenosha County, WI"	"55059"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	34	1919	1771.8
+	"Kenosha County, WI"	"55059"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	10	9005	Unreliable
+	"Kenosha County, WI"	"55059"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	10	2492	Unreliable
+	"Kenosha County, WI"	"55059"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	20	2492	802.6
+	"Kenosha County, WI"	"55059"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	13	878	Unreliable
+	"La Crosse County, WI"	"55063"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	1777	Unreliable
+	"La Crosse County, WI"	"55063"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	13	6672	Unreliable
+	"La Crosse County, WI"	"55063"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	11	758	Unreliable
+	"Manitowoc County, WI"	"55071"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	10	2742	Unreliable
+	"Manitowoc County, WI"	"55071"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	14	1563	Unreliable
+	"Manitowoc County, WI"	"55071"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	13	1563	Unreliable
+	"Manitowoc County, WI"	"55071"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	11	1563	Unreliable
+	"Manitowoc County, WI"	"55071"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	14	670	Unreliable
+	"Marathon County, WI"	"55073"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	12	2052	Unreliable
+	"Marathon County, WI"	"55073"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	21	2052	1023.4
+	"Marathon County, WI"	"55073"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	16	2052	Unreliable
+	"Marathon County, WI"	"55073"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	13	8406	Unreliable
+	"Marathon County, WI"	"55073"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	10	2700	Unreliable
+	"Marathon County, WI"	"55073"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	12	1014	Unreliable
+	"Marinette County, WI"	"55075"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	19	892	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"45-54 years"	"45-54"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	65529	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	16	52571	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	11	52571	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	52571	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	29	52571	55.2
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	12	29011	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	56	29011	193.0
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	26	23435	110.9
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	29	23435	123.7
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	93	23435	396.8
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Cardiomyopathy, unspecified"	"I42.9"	12	23435	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	23	23435	98.1
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	13	13263	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	26	13263	196.0
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	38	13263	286.5
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	13263	158.3
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	151	13263	1138.5
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Ischaemic cardiomyopathy"	"I25.5"	17	13263	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	19	13263	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Cardiomyopathy, unspecified"	"I42.9"	19	13263	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atrial fibrillation and flutter"	"I48"	21	13263	158.3
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Cardiac arrhythmia, unspecified"	"I49.9"	12	13263	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	72	13263	542.9
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"35-44 years"	"35-44"	"Acute myocardial infarction, unspecified"	"I21.9"	10	58831	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	61661	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	61661	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Atherosclerotic heart disease"	"I25.1"	32	61661	51.9
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"45-54 years"	"45-54"	"Cardiomyopathy, unspecified"	"I42.9"	10	61661	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	25	48548	51.5
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	26	48548	53.6
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	31	48548	63.9
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	62	48548	127.7
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Cardiomyopathy, unspecified"	"I42.9"	10	48548	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	27	22873	118.0
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	26	22873	113.7
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	74	22873	323.5
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	14827	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	27	14827	182.1
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	14827	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	109	14827	735.1
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Ischaemic cardiomyopathy"	"I25.5"	12	14827	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Cardiomyopathy, unspecified"	"I42.9"	17	14827	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	22	14827	148.4
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	5724	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	27	5724	471.7
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	5724	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	96	5724	1677.1
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Ischaemic cardiomyopathy"	"I25.5"	12	5724	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Cardiomyopathy, unspecified"	"I42.9"	20	5724	349.4
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	35	5724	611.5
+	"Oconto County, WI"	"55083"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	12	456	Unreliable
+	"Oconto County, WI"	"55083"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	1739	Unreliable
+	"Outagamie County, WI"	"55087"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	17	2114	Unreliable
+	"Outagamie County, WI"	"55087"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	20	2114	946.1
+	"Outagamie County, WI"	"55087"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	17	2114	Unreliable
+	"Outagamie County, WI"	"55087"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	13	9860	Unreliable
+	"Outagamie County, WI"	"55087"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	14	5104	Unreliable
+	"Outagamie County, WI"	"55087"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	11	2891	Unreliable
+	"Outagamie County, WI"	"55087"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	11	2891	Unreliable
+	"Ozaukee County, WI"	"55089"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	11	1264	Unreliable
+	"Ozaukee County, WI"	"55089"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	11	1900	Unreliable
+	"Ozaukee County, WI"	"55089"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	10	613	Unreliable
+	"Portage County, WI"	"55097"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	11	971	Unreliable
+	"Racine County, WI"	"55101"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	16	2593	Unreliable
+	"Racine County, WI"	"55101"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	22	2593	848.4
+	"Racine County, WI"	"55101"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Acute myocardial infarction, unspecified"	"I21.9"	16	11880	Unreliable
+	"Racine County, WI"	"55101"	"2010"	"2010"	"Male"	"M"	"55-64 years"	"55-64"	"Atherosclerotic heart disease"	"I25.1"	16	11880	Unreliable
+	"Racine County, WI"	"55101"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	11	6263	Unreliable
+	"Racine County, WI"	"55101"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	12	6263	Unreliable
+	"Racine County, WI"	"55101"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	15	3603	Unreliable
+	"Racine County, WI"	"55101"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	13	3603	Unreliable
+	"Racine County, WI"	"55101"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	15	1253	Unreliable
+	"Racine County, WI"	"55101"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	30	1253	2394.3
+	"Rock County, WI"	"55105"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	11	4209	Unreliable
+	"Rock County, WI"	"55105"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	11	2062	Unreliable
+	"Rock County, WI"	"55105"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	18	2062	Unreliable
+	"Rock County, WI"	"55105"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	16	2062	Unreliable
+	"Rock County, WI"	"55105"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	13	3047	Unreliable
+	"Rock County, WI"	"55105"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	13	975	Unreliable
+	"Rock County, WI"	"55105"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	12	975	Unreliable
+	"St. Croix County, WI"	"55109"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	12	809	Unreliable
+	"St. Croix County, WI"	"55109"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	11	809	Unreliable
+	"Sauk County, WI"	"55111"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	17	1099	Unreliable
+	"Sauk County, WI"	"55111"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	11	1099	Unreliable
+	"Sauk County, WI"	"55111"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	11	1264	Unreliable
+	"Shawano County, WI"	"55115"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	14	739	Unreliable
+	"Shawano County, WI"	"55115"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	10	2006	Unreliable
+	"Shawano County, WI"	"55115"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	13	1127	Unreliable
+	"Sheboygan County, WI"	"55117"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	12	3214	Unreliable
+	"Sheboygan County, WI"	"55117"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	12	1875	Unreliable
+	"Sheboygan County, WI"	"55117"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	17	1875	Unreliable
+	"Sheboygan County, WI"	"55117"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	22	1875	1173.3
+	"Sheboygan County, WI"	"55117"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	14	2443	Unreliable
+	"Sheboygan County, WI"	"55117"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	863	Unreliable
+	"Sheboygan County, WI"	"55117"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	15	863	Unreliable
+	"Vernon County, WI"	"55123"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	11	493	Unreliable
+	"Walworth County, WI"	"55127"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	19	1365	Unreliable
+	"Walworth County, WI"	"55127"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	11	1929	Unreliable
+	"Washington County, WI"	"55131"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	16	1713	Unreliable
+	"Washington County, WI"	"55131"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	12	1713	Unreliable
+	"Washington County, WI"	"55131"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	12	1713	Unreliable
+	"Washington County, WI"	"55131"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	13	788	Unreliable
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	16	10997	Unreliable
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	22	10997	200.1
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	10	10997	Unreliable
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	5408	Unreliable
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	25	5408	462.3
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	5408	Unreliable
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	56	5408	1035.5
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Aortic (valve) stenosis"	"I35.0"	17	5408	Unreliable
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Cardiomyopathy, unspecified"	"I42.9"	10	5408	Unreliable
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atrial fibrillation and flutter"	"I48"	15	5408	Unreliable
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	20	5408	369.8
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	14	13502	Unreliable
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Atherosclerotic heart disease"	"I25.1"	14	13502	Unreliable
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	20	8028	249.1
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	43	8028	535.6
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Congestive heart failure"	"I50.0"	11	8028	Unreliable
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	17	2501	Unreliable
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	43	2501	1719.3
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Cardiomyopathy, unspecified"	"I42.9"	10	2501	Unreliable
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	12	2501	Unreliable
+	"Waupaca County, WI"	"55135"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	16	1102	Unreliable
+	"Waupaca County, WI"	"55135"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	10	1102	Unreliable
+	"Waupaca County, WI"	"55135"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	11	2269	Unreliable
+	"Waupaca County, WI"	"55135"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Acute myocardial infarction, unspecified"	"I21.9"	11	1456	Unreliable
+	"Waupaca County, WI"	"55135"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	12	642	Unreliable
+	"Winnebago County, WI"	"55139"	"2010"	"2010"	"Female"	"F"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	10	4351	Unreliable
+	"Winnebago County, WI"	"55139"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	14	2479	Unreliable
+	"Winnebago County, WI"	"55139"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	14	2479	Unreliable
+	"Winnebago County, WI"	"55139"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	19	2479	Unreliable
+	"Winnebago County, WI"	"55139"	"2010"	"2010"	"Male"	"M"	"75-84 years"	"75-84"	"Atherosclerotic heart disease"	"I25.1"	15	3225	Unreliable
+	"Winnebago County, WI"	"55139"	"2010"	"2010"	"Male"	"M"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	15	1122	Unreliable
+	"Wood County, WI"	"55141"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	17	1467	Unreliable
+	"Wood County, WI"	"55141"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Atherosclerotic heart disease"	"I25.1"	19	1467	Unreliable
+	"Wood County, WI"	"55141"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Congestive heart failure"	"I50.0"	14	1467	Unreliable
+	"Laramie County, WY"	"56021"	"2010"	"2010"	"Female"	"F"	"85+ years"	"85+"	"Acute myocardial infarction, unspecified"	"I21.9"	10	989	Unreliable
+	"Laramie County, WY"	"56021"	"2010"	"2010"	"Male"	"M"	"65-74 years"	"65-74"	"Acute myocardial infarction, unspecified"	"I21.9"	12	3110	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2017"
+"Query Parameters:"
+"Title: heart_disease2"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Gender: All"
+"Hispanic Origin: All"
+"ICD-10 Codes: I01.0 (Acute rheumatic pericarditis), I01.1 (Acute rheumatic endocarditis), I01.2 (Acute rheumatic myocarditis),"
+"I01.8 (Other acute rheumatic heart disease), I01.9 (Acute rheumatic heart disease, unspecified), I11.0 (Hypertensive heart"
+"disease with (congestive) heart failure), I11.9 (Hypertensive heart disease without (congestive) heart failure), I13.0"
+"(Hypertensive heart and renal disease with (congestive) heart failure), I13.1 (Hypertensive heart and renal disease with renal"
+"failure), I13.2 (Hypertensive heart and renal disease with both (congestive) heart failure and renal failure), I13.9"
+"(Hypertensive heart and renal disease, unspecified), I20-I25 (Ischaemic heart diseases), I26-I28 (Pulmonary heart disease and"
+"diseases of pulmonary circulation), I30-I51 (Other forms of heart disease)"
+"Place of Death: All"
+"Race: All"
+"States: Texas (48), Utah (49), Vermont (50), Virginia (51), Washington (53), West Virginia (54), Wisconsin (55), Wyoming (56)"
+"Ten-Year Age Groups: All"
+"Weekday: All"
+"Year/Month: 2010"
+"Group By: County, Year, Gender, Ten-Year Age Groups, Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Dec 16, 2018 3:15:21 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Dec 16, 2018 3:15:21 PM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Footnotes:
+"1. Data are not available for this area for all of the requested years. See Caveats below for more information."
+"---"
+Caveats:
+"1. Death rates for Clifton Forge city, Virginia (FIPS code 51560) are available only for 1999-2000. For 2001 and beyond, death"
+"counts and population estimates for Clifton Forge city have been combined with those for Alleghany county, Virginia (FIPS code"
+"51005). Death counts and population estimates for this entity from multi-year requests, only reflect data from 1999 and 2000;"
+"for 2001 and beyond they have been set to zero. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Clifton Forge."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017"
+"postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for"
+"year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS"
+"on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The"
+"population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal"
+"series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010 are April 1"
+"Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident population, from"
+"the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are"
+"April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population"
+"figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 -"
+"2009 differ slightly from previously published reports, due to use of the population estimates which were available at the time"
+"of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."
