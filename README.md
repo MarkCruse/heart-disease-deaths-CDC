@@ -1,6 +1,14 @@
 ## Deaths from Heart Disease 2008-2017
 
-#### _Data Source:_
+## _Table of Contents_
+ - [Data Source](#datasource)
+ - [ICD-10 codes chosen for data retrieval](#ICDcodes)
+ - [Data processing post extraction](#postextract)
+ - [How data was aquired](#howdata)  
+ - [Processing the data extracted from Wonder](#processdata)
+
+<a id="datasource"></a>
+### _Data Source:_
 _Centers for Disease Control and Prevention, National Center for Health Statistics.  
 Underlying Cause of Death 1999-2017 on CDC WONDER Online Database, released December, 2018._  
 
@@ -11,7 +19,8 @@ See also http://wonder.cdc.gov/wonder/help/ucd.html for more information.
 __Data selected for years:__ 2008 - 2017  
 __Group By:__ County, Year, Gender, Ten-Year Age Groups, Cause of death
 
-__ICD-10 codes chosen for data retrieval:__  
+<a id="ICDcodes"></a>
+### _ICD-10 codes chosen for data retrieval:_
 I01.0 Acute rheumatic pericarditis  
 I01.1 Acute rheumatic endocarditis  
 I01.2 Acute rheumatic myocarditis  
@@ -29,28 +38,24 @@ I30-I51 Other forms of heart disease
 
 The heart disease codes above were chosen as suggested by: [NCHS ICD-10 Rankable Causes (Leading Causes)](https://www.ehdp.com/epigram/nchs-icd-10-lcd.htm)
 
-__Data processing post extraction:__ The _CDC Wonder_ tool only allows for the processing of 75,000 data rows at a time. The data was extracted by years and in segments of states to meet this limitation.  The result is 43 data tables. The data is parsed into a single csv file.
-
-## _Table of Contents_
-
- - [how data was aquired](#howdata)  
- - [processing the data extracted from Wonder](#processdata)
-
+<a id="postextract"></a>
+### _Data processing post extraction:_
+The _CDC Wonder_ tool only allows for the processing of 75,000 data rows at a time. The data was extracted by years and in segments of states to meet this limitation.  The result is 43 data tables. The data is parsed into a single csv file.
 
 <a id="howdata"></a>
-### _how data was aquired_
+### _How data was aquired_
 
 As identified in the sources section at top, the data was aquired using the CDC WONDER Online Database. Screen shots below show the setup.
 
 <div style="width: 800px;">[ScreenShot1.png](images/ScreenShot1.png)</div>
 <img src="images/ScreenShot1.png" width="800">
 <div style="width: 800px;">[ScreenShot2.png](images/ScreenShot2.png)</div>
-<img src="data/heart_disease/images/ScreenShot2.png" width="800">
+<img src="images/ScreenShot2.png" width="800">
 <div style="width: 800px;">[ScreenShot3.png](images/ScreenShot3.png)</div>
-<img src="data/heart_disease/images/ScreenShot3.png" width="800">
+<img src="images/ScreenShot3.png" width="800">
 
 <a id="processdata"></a>
-### _processing the data extracted from Wonder_
+### _Processing the data extracted from Wonder_
 
 file_parser.py
 
@@ -90,7 +95,7 @@ fileObj.close()
 
 
 ```
-Output:
+_Output:_
 
     2918 records parsed in dataset: data/heart_disease/data-raw/heart_disease2 (0).txt
     2495 records parsed in dataset: data/heart_disease/data-raw/heart_disease2 (1).txt
